@@ -1,0 +1,8 @@
+MEIN TRAINING – iPHONE HOME-BILDSCHIRM-APP
+
+1. Alle Dateien aus diesem ZIP gemeinsam in das Stammverzeichnis einer HTTPS-Webseite hochladen (z. B. über einen statischen Hostingdienst). Nicht nur index.html hochladen.
+2. Die HTTPS-Adresse auf dem iPhone in Safari öffnen.
+3. In Safari auf Teilen tippen und „Zum Home-Bildschirm“ auswählen, danach „Hinzufügen“.
+4. Die App über das Symbol „Mein Training“ starten.
+
+WICHTIG: Ich kann die Dateien hier erstellen, aber nicht selbst öffentlich hosten. Die App speichert lokal auf deinem iPhone. Vorhandene Einträge aus einer lokal geöffneten HTML-Datei werden nicht automatisch in die gehostete App übertragen. Exportiere deshalb vorher in der alten App eine JSON-Sicherung und importiere diese über „Sicherung importieren“ in der neuen App. Bewahre regelmäßig Sicherungen auf.
